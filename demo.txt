@@ -6,6 +6,6 @@ We are working on Git functionality
 Topic covered
 Oop's 
 Collection
-DB
+
 
 Need to update code
